@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Don't Care",
+  "base_artist": "Rich Brian",
+  "createdAt": "2026-03-09T08:18:18.048746Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Highway Don't Care",
+      "artist": "Tim McGraw",
+      "has_synced": false,
+      "path": "select/01_Highway_Don't_Care_Tim_McGraw.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Care",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Care_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Care (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/03_I_Don't_Care_(Album_Version)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) - 2006 Remastered Version",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/04_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_-_2006_Remastered_Version_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) (2006 Remastered LP Version)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/05_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_(2006_Remastered_LP_Version)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Don't Care (Whose Heart It Breaks)",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/06_Love_Don't_Care_(Whose_Heart_It_Breaks)_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Dont Care",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/07_I_Dont_Care_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Care",
+      "artist": "The Roots feat. Dom",
+      "has_synced": false,
+      "path": "select/08_I_Don't_Care_The_Roots_feat._Dom.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Care",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Care_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Care",
+      "artist": "LSD and the Search for God",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Care_LSD_and_the_Search_for_God.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "They Don't Care About Us",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/11_They_Don't_Care_About_Us_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Don't Care",
+      "artist": "NAV feat. Metro Boomin",
+      "has_synced": true,
+      "path": "select/12_I_Don't_Care_NAV_feat._Metro_Boomin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You Don't Care About Us",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/13_You_Don't_Care_About_Us_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Don't Care About Us",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/14_You_Don't_Care_About_Us_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Don't Care About Us",
+      "artist": "Placebo",
+      "has_synced": true,
+      "path": "select/15_You_Don't_Care_About_Us_Placebo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Care",
+      "artist": "Galantis",
+      "has_synced": false,
+      "path": "select/16_Don't_Care_Galantis.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Don't Care",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/17_I_Don't_Care_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Care",
+      "artist": "Rich Brian",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Care_Rich_Brian.txt"
+    }
+  ]
+}
